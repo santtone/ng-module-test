@@ -19,4 +19,4 @@ import {TestService} from './test/test.service';
   bootstrap: [AppComponent],
   exports:[TestComponent]
 })
-export class AppModule { }
+export class TestModule { }
